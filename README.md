@@ -1,1 +1,1 @@
-# strategy-arq-soft
+# Aplicando o Strategy (Arquitetura de Software: Design Patterns)
